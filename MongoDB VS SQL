@@ -1,0 +1,24 @@
+MongoDB vs SQL
+SQL Databases
+• SQL databases store structured data in tables with predefined schemas.
+• Examples: MySQL, PostgreSQL, SQL Server.
+• Key Features:
+  - Uses Structured Query Language (SQL).
+  - Tables, Rows, Columns, and Relationships.
+  - ACID compliance (Atomicity, Consistency, Isolation, Durability).
+  - Predefined Schema (Fixed structure).
+
+MongoDB (NoSQL)
+• MongoDB is a NoSQL database that stores data in flexible, JSON-like documents.
+• Key Features:
+  - Schema-less (Flexible structure).
+  - Stores data in BSON (Binary JSON) format.
+  - Scales horizontally with sharding.
+  - Best for unstructured, semi-structured, and hierarchical data.
+
+MongoDB vs SQL – Key Differences
+Data Model: SQL uses Tables, MongoDB uses Documents.
+• Schema: SQL has a Fixed Schema, MongoDB is Schema-less.
+• Scalability: SQL scales Vertically, MongoDB scales Horizontally.
+• Query Language: SQL uses Structured Queries, MongoDB uses MQL.
+• Best Use Cases: SQL for Transactions & Structured Data, MongoDB for Big Data & Real-time Apps
